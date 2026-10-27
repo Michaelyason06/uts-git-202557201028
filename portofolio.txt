@@ -1,0 +1,2 @@
+Nama: Michael Putra Gunya Yason
+Proyek: Instalasi dan konfigurasi web server Nginx (Praktikum Minggu 7)
